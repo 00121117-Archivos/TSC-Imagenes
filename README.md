@@ -1,5 +1,5 @@
 # TSC-Imagenes
 
-'''
+```
 ![nombre] ("imagen")
-'''
+```
